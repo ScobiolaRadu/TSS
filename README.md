@@ -10,7 +10,7 @@ Tema 7: Test Driven Development in C#
 
 Referințe:
 
-[1] https://learn.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-withtest-explorer?view=vs-2019
+[1] https://learn.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-with-test-explorer?view=vs-2019
 
 [2] https://www.freecodecamp.org/news/tdd-explanation-hands-on-practice-with-ca0124338be44/
 
