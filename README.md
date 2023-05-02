@@ -7,6 +7,7 @@ Tema 7: Test Driven Development in C#
 
 • Conceptele prezentate vor fi ilustrate pe exemple proprii (create de echipă).
 
+
 Referințe:
 
 [1] https://docs.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-withtest-
