@@ -1,6 +1,6 @@
 # TSS
 
-Tema 7: Test Driven Development in C#
+Test Driven Development in C#
 
 • Prezentați această abordare a dezvoltării de software ce combină Test First Development
 (TFD) cu refactorizarea.
