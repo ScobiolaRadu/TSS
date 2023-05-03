@@ -8,8 +8,8 @@ namespace TSS
 {
     public class Item
     {
-        public double Price;
-        public double Quantity;
+        private double Price;
+        private double Quantity;
 
         public Item(int quantity, double price)
         {

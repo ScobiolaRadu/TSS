@@ -8,8 +8,6 @@ namespace TSSTests
     [TestClass]
     public class UnitTest1
     {
-        private int quantity;
-        private double price;
 
         [TestMethod]
         public void TotalOfEmptyCart()
@@ -21,22 +19,29 @@ namespace TSSTests
         [TestMethod]
         public void TotalOfCartOneItem()
         {
-            Cart cart = new Cart(new List<Item> { new Item(quantity = 1, price = 299.99) });
+            Cart cart = new Cart(new List<Item> { new Item(1, 299.99) });
             Assert.AreEqual(299.99, cart.Total);
         }
 
         [TestMethod]
         public void TotalOfCartMultipleItems()
         {
-            Cart cart = new Cart(new List<Item> { new Item(quantity = 1, price = 299.99), new Item(quantity = 1, price = 99.99), new Item(quantity = 1, price = 9.99) });
+            Cart cart = new Cart(new List<Item> { new Item(1, 299.99), new Item(1, 99.99), new Item(1, 9.99) });
             Assert.AreEqual(409.97, cart.Total);
         }
 
         [TestMethod]
         public void TotalOfCartMultipleQuantities()
         {
-            Cart cart = new Cart(new List<Item> { new Item(quantity = 2, price = 100.0) , new Item(quantity = 1, price = 10.0), new Item(quantity = 7, price = 50.0)});
+            Cart cart = new Cart(new List<Item> { new Item(2, 100.0) , new Item(1, 10.0), new Item(7, 50.0)});
             Assert.AreEqual(560.0, cart.Total);
+        }
+
+        [TestMethod]
+        public void CheckUserCredentials()
+        {
+            Client client = new Client("test@gmail.com", "secret");
+            Assert.AreEqual("test@gmail.com" + "secret", client.Credentials(client));
         }
 
     }
