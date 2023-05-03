@@ -1,0 +1,16 @@
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\TSSTests.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\TSSTests.pdb
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\TSS.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\TSS.pdb
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\obj\Debug\TSSTests.csproj.AssemblyReference.cache
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\obj\Debug\TSSTests.csproj.CoreCompileInputs.cache
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\obj\Debug\TSSTests.csproj.CopyComplete
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\obj\Debug\TSSTests.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSSTests\obj\Debug\TSSTests.pdb

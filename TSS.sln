@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSS", "TSS\TSS.csproj", "{5FCF6A6D-C493-407D-85F2-907EB0511B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSSTests", "TSSTests\TSSTests.csproj", "{FC2E8CB5-5E45-4FC7-B00D-A1DFF640E75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FCF6A6D-C493-407D-85F2-907EB0511B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCF6A6D-C493-407D-85F2-907EB0511B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCF6A6D-C493-407D-85F2-907EB0511B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCF6A6D-C493-407D-85F2-907EB0511B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2E8CB5-5E45-4FC7-B00D-A1DFF640E75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2E8CB5-5E45-4FC7-B00D-A1DFF640E75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2E8CB5-5E45-4FC7-B00D-A1DFF640E75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2E8CB5-5E45-4FC7-B00D-A1DFF640E75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30CD0F62-D573-46B8-B4FA-B0B7CD0A08A5}
+	EndGlobalSection
+EndGlobal

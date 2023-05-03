@@ -1,0 +1,6 @@
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSS\bin\Debug\TSS.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSS\bin\Debug\TSS.pdb
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSS\obj\Debug\TSS.csproj.AssemblyReference.cache
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSS\obj\Debug\TSS.csproj.CoreCompileInputs.cache
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSS\obj\Debug\TSS.dll
+C:\Users\RaduScobiolaKodingTe\source\repos\TSS\TSS\obj\Debug\TSS.pdb
